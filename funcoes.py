@@ -8,7 +8,7 @@ tentativas = 0
 adivinhar = True
 
 print("Bem-vindo ao jogo de adivinhação!")
-print("Eu escolhi um número entre 1 e 100.")
+print("Eu escolhi um número entre 1 e 1000.")
 print("Tente adivinhar qual é o número.")
 
 # Loop principal do jogo
