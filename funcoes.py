@@ -26,5 +26,5 @@ while adivinhar:
         print(f"Parabéns! Você adivinhou o número secreto {numero_secreto} em {tentativas} tentativas.")
         adivinhar = False
 
-# Mensagem de fim de jogo
+# Mensagem de fim
 print("Fim do jogo. Obrigado por jogar!")
